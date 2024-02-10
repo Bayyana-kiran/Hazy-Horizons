@@ -1,0 +1,2 @@
+Input,Prompt,Ouput,flag,username,timestamp
+"{""path"":""flagged\\Input\\14b423ac14216a8fb2a8\\lol_748.png"",""url"":""http://127.0.0.1:7860/file=C:\\Users\\bayya\\AppData\\Local\\Temp\\gradio\\508ca0f9078fc6834f8eadbd9269b66c57228f00\\lol_748.png"",""size"":null,""orig_name"":""lol_748.png"",""mime_type"":null}","my image is too dark, I cannot see anything, can you fix it?","{""path"":""flagged\\Ouput\\d3ecc11eea30726c79b1\\image.png"",""url"":null,""size"":null,""orig_name"":""image.png"",""mime_type"":null}",,,2024-02-10 10:27:18.126412
